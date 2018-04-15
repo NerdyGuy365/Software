@@ -3,7 +3,6 @@ C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCa
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.runtimeconfig.dev.json
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.dll
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.pdb
-C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojResolveAssemblyReference.cache
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csproj.CoreCompileInputs.cache
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
