@@ -44,16 +44,42 @@ namespace ProductCatalogApi.Data
             builder.HasOne(c => c.CatalogBrand)
                 .WithMany()
                 .HasForeignKey(c => c.CatalogBrandId);
-        }
 
-        private void ConfigurCatalogType(EntityTypeBuilder<CatalogType> builder)
-        {
-            tbuilder.ToTable("Catalog");
+            builder.HasOne(c => c.CatalogType)
+                .WithMany()
+                .HasForeignKey(c => c.CatalogTypeId);
         }
 
         private void ConfigurCatalogBrand(EntityTypeBuilder<CatalogBrand> builder)
         {
-            throw new NotImplementedException();
+            builder.ToTable("CatalogBrand");
+
+            builder.Property(c => c.Id)
+                .ForSqlServerUseSequenceHiLo("catalog_brand_hilo")
+                .IsRequired(true);
+
+            builder.Property(c => c.Brand)
+                .IsRequired(true)
+                .HasMaxLength(100);
         }
+
+        private void ConfigurCatalogType(EntityTypeBuilder<CatalogType> builder)
+        {
+            builder.ToTable("CatalogType");
+
+            builder.Property(c => c.Id)
+                .ForSqlServerUseSequenceHiLo("catalog_type_hilo")
+                .IsRequired(true);
+
+            builder.Property(c => c.Type)
+                .IsRequired(true)
+                .HasMaxLength(100);
+        }
+
+        public DbSet<CatalogType> CatalogTypes { get; set; }
+
+        public DbSet<CatalogBrand> CatalogBrands { get; set; }
+
+        public DbSet<CatalogItem> CatalogItems { get; set; }
     }
 }
