@@ -1,0 +1,16 @@
+﻿POWERSHELL COMMANDS
+
+--Change location
+Set-Location "C:\Windows\system32"
+
+--Run a SQL Server Image
+docker rm [instancename] Example: catalogdbserver
+
+--Stop a SQL Server Image
+docker stop [instancename] Example: catalogdbserver
+
+--List all running Images
+docker ps
+
+--Create new image
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=trainingtech99!' -e 'MSSQL_PID=Express' -p 1445:1433 --name=catalog microsoft/mssql-server-linux:latest
