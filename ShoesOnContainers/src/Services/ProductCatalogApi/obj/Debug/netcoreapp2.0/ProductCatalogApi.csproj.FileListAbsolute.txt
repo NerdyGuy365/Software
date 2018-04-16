@@ -8,3 +8,4 @@ C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCa
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.dll
 C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.pdb
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojResolveAssemblyReference.cache
