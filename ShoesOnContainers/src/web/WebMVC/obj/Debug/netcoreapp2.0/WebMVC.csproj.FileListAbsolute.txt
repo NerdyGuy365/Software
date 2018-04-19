@@ -1,0 +1,11 @@
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.deps.json
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.json
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.dev.json
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.dll
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.pdb
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfoInputs.cache
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfo.cs
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.dll
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.pdb
+C:\Development\Repos\Software\.Net Core\ShoesOnContainers\src\web\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.csprojResolveAssemblyReference.cache
